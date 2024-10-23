@@ -1,12 +1,12 @@
 ## Olá Sou Raul Cézar 👋🏼
-<h2>Linguagens De Programação</h2>
+## Linguagens De Programação
 [![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/devraulczr)
 <br>
 [![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/devraulczr)
 <br>
 [![lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://github.com/devraulczr/robloxstudio)
 
-<h2>Redes Sociais
+## Redes Sociais
 
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devraulczr)
 <br>
