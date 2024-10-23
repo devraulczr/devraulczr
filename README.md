@@ -4,7 +4,7 @@
 <br>
 [![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/devraulczr)
 <br>
-[![lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://github.com/devraulczr)](https://github.com/devraulczr/robloxstudio/tree/main)
+[![lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)]([https://github.com/devraulczr](https://github.com/devraulczr/robloxstudio/tree/main))
 
 <h2>Redes Sociais
 
