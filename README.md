@@ -4,6 +4,8 @@
 <br>
 [![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/devraulczr)
 <br>
+[![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/devraulczr/curriculo)
+<br>
 [![lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://github.com/devraulczr/robloxstudio)
 
 ## Redes Sociais
