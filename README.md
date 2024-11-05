@@ -1,6 +1,6 @@
 ## Olá Sou Raul Cézar 👋🏼
 ## Linguagens De Programação
-[![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/devraulczr)
+[![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/devraulczr/python)
 <br>
 [![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/devraulczr/html/tree/main/PHP)
 <br>
