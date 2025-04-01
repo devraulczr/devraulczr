@@ -1,5 +1,3 @@
-Aqui está uma versão aprimorada da sua descrição, tornando-a mais profissional e visualmente organizada:  
-
 ---
 
 # 🚀 Olá, Sou Raul Cézar 👋🏼  
