@@ -18,7 +18,7 @@ Aqui estão algumas APIs que desenvolvi:
 - Cadastro e login de usuários  
 - Gerenciamento de animes e episódios  
 - Exibição de episódios  
-- Recursos de interação entre usuários  
+- Recursos de varios usúarios por conta
 
 ### 🔹 [Ticket API](https://github.com/devraulczr/ticket_api)  
 🎫 API para gerenciamento de tickets de suporte, incluindo:  
